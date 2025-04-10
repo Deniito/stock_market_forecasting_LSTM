@@ -1,0 +1,4 @@
+# Project exclude paths
+/data/
+/Output_dir/
+/stock_data/
